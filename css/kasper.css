@@ -351,7 +351,7 @@ display: flex;
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     height: 600px;
-    background-image:url(/images/design-features.jpg);
+    background-image:url(../images/design-features.jpg);
     z-index: 1;
     position: relative;
     overflow: hidden;
@@ -605,7 +605,7 @@ margin-bottom: 20px;
 .status{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(/images/stats.png);
+    background-image: url(../images/stats.png);
     position: relative;
     text-align: center;
 }
@@ -814,7 +814,7 @@ margin-bottom: 40px;
 .quote {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(/images/quote.jpg);
+    background-image: url(../images/quote.jpg);
     background-size: cover;
     position: relative;
     color: white;
@@ -952,7 +952,7 @@ margin-bottom: 40px;
 .subscribe{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(/images/subscribe.jpg);
+    background-image: url(../images/subscribe.jpg);
     position: relative;
     background-size: cover;
 }
@@ -1126,7 +1126,7 @@ margin-bottom: 60px;
 .footer{
     padding-top: 50px;
     padding-bottom: 50px;
-    background-image: url(/images/subscribe.jpg);
+    background-image: url(../images/subscribe.jpg);
     position: relative;
     background-size: cover;
 }
